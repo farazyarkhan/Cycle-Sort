@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\CycleSort\CycleSort\bin\Debug\CycleSort.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\CycleSort\CycleSort\bin\Debug\CycleSort.exe
+c:\users\pc\documents\visual studio 2013\Projects\CycleSort\CycleSort\bin\Debug\CycleSort.pdb
+c:\users\pc\documents\visual studio 2013\Projects\CycleSort\CycleSort\obj\Debug\CycleSort.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\CycleSort\CycleSort\obj\Debug\CycleSort.exe
+c:\users\pc\documents\visual studio 2013\Projects\CycleSort\CycleSort\obj\Debug\CycleSort.pdb

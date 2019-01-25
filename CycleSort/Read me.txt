@@ -1,0 +1,14 @@
+Cycle Sort:
+Cycle sort is a in-place & unstable sorting algorithm. it divides the array into cycles to perform sorting.
+The space complexity of this algorithm is O(1) while the time complexity is O(n)
+
+Working:
+It works by comparing the pivot(first element) with other elements and counts smaller elements and swaps it with its correct position.
+
+Input:
+Works fine for every integer input (positive, negative, sorted and unsorted)
+
+Ouput: 
+Shows the unsorted array on the console followed by the sorted array.
+The sorted output will always be in ascending order.
+ 
